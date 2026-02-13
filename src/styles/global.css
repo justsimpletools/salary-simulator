@@ -7,3 +7,12 @@ body {
 	padding: 0;
 	background-color: #f8f8f8;
 }
+
+@media print {
+	.no-print {
+		display: none;
+	}
+	body {
+		background: white;
+	}
+}

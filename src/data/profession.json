@@ -1,0 +1,198 @@
+{
+	"Direction & Administration": [
+		"Dirigeant d’entreprise",
+		"Directeur général",
+		"Directeur financier",
+		"Directeur des ressources humaines",
+		"Directeur commercial",
+		"Manager",
+		"Chef de service",
+		"Responsable administratif",
+		"Responsable RH",
+		"Assistant de direction",
+		"Secrétaire",
+		"Agent administratif"
+	],
+
+	"Finance, Comptabilité & Juridique": [
+		"Expert-comptable",
+		"Comptable",
+		"Aide-comptable",
+		"Auditeur",
+		"Contrôleur de gestion",
+		"Fiscaliste",
+		"Avocat",
+		"Notaire",
+		"Adoul",
+		"Juriste",
+		"Conseiller juridique"
+	],
+
+	"Informatique & Digital": [
+		"Développeur web",
+		"Développeur mobile",
+		"Développeur logiciel",
+		"Ingénieur informatique",
+		"Ingénieur systèmes et réseaux",
+		"Administrateur système",
+		"Administrateur réseau",
+		"Data analyst",
+		"Data engineer",
+		"Data scientist",
+		"Expert cybersécurité",
+		"DevOps",
+		"Testeur logiciel (QA)",
+		"Chef de projet IT",
+		"UX/UI Designer",
+		"Technicien informatique"
+	],
+
+	"Ingénierie & Technique": [
+		"Ingénieur civil",
+		"Ingénieur industriel",
+		"Ingénieur mécanique",
+		"Ingénieur électrique",
+		"Ingénieur électromécanique",
+		"Ingénieur télécom",
+		"Technicien spécialisé",
+		"Technicien",
+		"Dessinateur industriel",
+		"Conducteur de travaux"
+	],
+
+	"BTP & Immobilier": [
+		"Architecte",
+		"Géomètre-topographe",
+		"Chef de chantier",
+		"Maçon",
+		"Coffreur",
+		"Ferrailleur",
+		"Électricien bâtiment",
+		"Plombier",
+		"Peintre",
+		"Carreleur",
+		"Menuisier",
+		"Conducteur d’engins",
+		"Agent immobilier"
+	],
+
+	"Industrie & Production": [
+		"Ouvrier qualifié",
+		"Ouvrier non qualifié",
+		"Agent de production",
+		"Opérateur de machine",
+		"Technicien de maintenance",
+		"Chef d’équipe",
+		"Responsable production",
+		"Responsable usine",
+		"Contrôleur qualité"
+	],
+
+	"Commerce, Vente & Marketing": [
+		"Commercial",
+		"Représentant commercial",
+		"Agent de vente",
+		"Vendeur",
+		"Caissier",
+		"Chef de rayon",
+		"Responsable commercial",
+		"Responsable marketing",
+		"Chargé de marketing",
+		"Chargé de communication",
+		"Community manager",
+		"Merchandiser"
+	],
+
+	"Transport & Logistique": [
+		"Chauffeur",
+		"Chauffeur-livreur",
+		"Agent logistique",
+		"Magasinier",
+		"Cariste",
+		"Responsable logistique",
+		"Responsable supply chain",
+		"Transitaire",
+		"Déclarant en douane"
+	],
+
+	"Hôtellerie, Restauration & Tourisme": [
+		"Directeur d’hôtel",
+		"Réceptionniste",
+		"Gouvernant(e)",
+		"Serveur",
+		"Chef cuisinier",
+		"Cuisinier",
+		"Commis de cuisine",
+		"Pâtissier",
+		"Barman",
+		"Agent de voyage",
+		"Guide touristique"
+	],
+
+	"Santé & Social": [
+		"Médecin",
+		"Médecin spécialiste",
+		"Dentiste",
+		"Pharmacien",
+		"Infirmier",
+		"Sage-femme",
+		"Kinésithérapeute",
+		"Aide-soignant",
+		"Psychologue",
+		"Assistant social"
+	],
+
+	"Enseignement & Formation": [
+		"Professeur universitaire",
+		"Enseignant secondaire",
+		"Enseignant primaire",
+		"Formateur",
+		"Enseignant privé",
+		"Directeur d’établissement",
+		"Surveillant"
+	],
+
+	"Agriculture, Pêche & Environnement": [
+		"Agriculteur",
+		"Exploitant agricole",
+		"Technicien agricole",
+		"Ingénieur agronome",
+		"Ouvrier agricole",
+		"Éleveur",
+		"Pêcheur",
+		"Marin"
+	],
+
+	"Artisanat & Métiers Traditionnels": [
+		"Artisan",
+		"Menuisier traditionnel",
+		"Forgeron",
+		"Tisserand",
+		"Tailleur",
+		"Cordonnière",
+		"Bijoutier",
+		"Potier",
+		"Zelligeur"
+	],
+
+	"Sécurité & Services Publics": [
+		"Policier",
+		"Gendarme",
+		"Militaire",
+		"Agent d’autorité",
+		"Agent de sécurité privée",
+		"Gardien",
+		"Pompier",
+		"Douanier"
+	],
+
+	"Indépendants & Professions Libérales": [
+		"Consultant",
+		"Freelance",
+		"Entrepreneur",
+		"Auto-entrepreneur",
+		"Coach",
+		"Expert indépendant",
+		"Créateur de contenu"
+	]
+}
